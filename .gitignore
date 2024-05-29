@@ -1,4 +1,4 @@
 LLaMa_Source/*
 llama/*
 LLaMa_Source/llama/*
-data/MNIST/*
+HandDigitsTorch/data/MNIST/*
