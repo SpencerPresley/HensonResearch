@@ -1,3 +1,5 @@
+# Description: Count the total and unique tokens in a text file using a BERT tokenizer.
+
 import torch
 from transformers import AutoTokenizer
 

@@ -1,3 +1,7 @@
+# Description: This script calculates the number of unique characters and words in a dataset.
+# Used in the Henson Research project to calculate the number of unique characters and words in the enwik8 dataset.
+# Part of a series of scripts to determine token size and vocabulary size most appropriate for the dataset.
+
 from collections import Counter
 import re
 
